@@ -4,5 +4,3 @@ numpy
 folium
 geopandas
 plotly
-zipfile
-PIL
